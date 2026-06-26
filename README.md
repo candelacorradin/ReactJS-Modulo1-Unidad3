@@ -35,19 +35,6 @@ Luego abrí `index.html` con doble clic, o serví la carpeta con cualquier servi
 └── README.md
 ```
 
-## Capturas
-
-**Carga inicial y listado de tareas**
-
-![Carga inicial en consola](carga-inicial.png)
-
-**Lista actualizada tras agregar una tarea**
-
-![Lista actualizada](lista-actualizada.png)
-
-**Tareas completadas, títulos y carga paralela**
-
-![Tareas completadas y extras](completadas-extras.png)
 
 ## Créditos
 
