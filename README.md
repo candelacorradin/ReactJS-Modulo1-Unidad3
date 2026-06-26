@@ -35,6 +35,11 @@ Luego abrí `index.html` con doble clic, o serví la carpeta con cualquier servi
 └── README.md
 ```
 
+## Captura
+
+**Salida del programa en consola**
+
+![Salida en consola](captura.png)
 
 ## Créditos
 
